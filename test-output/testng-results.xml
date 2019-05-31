@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HybridSuite" duration-ms="53641" started-at="2019-05-30T20:12:58Z" finished-at="2019-05-30T20:13:51Z">
+    <groups>
+    </groups>
+    <test name="HybridTest" duration-ms="53641" started-at="2019-05-30T20:12:58Z" finished-at="2019-05-30T20:13:51Z">
+      <class name="com.qa.linkedin.testcases.SearchDDTTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@11e21d0e]" name="beforeClass" is-config="true" duration-ms="17035" started-at="2019-05-30T20:12:58Z" finished-at="2019-05-30T20:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@11e21d0e]" name="searchTest" duration-ms="4773" started-at="2019-05-30T20:13:16Z" data-provider="dp" finished-at="2019-05-30T20:13:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ashok]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@11e21d0e]" name="searchTest" duration-ms="8295" started-at="2019-05-30T20:13:21Z" data-provider="dp" finished-at="2019-05-30T20:13:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ashwini]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@11e21d0e]" name="searchTest" duration-ms="8291" started-at="2019-05-30T20:13:29Z" data-provider="dp" finished-at="2019-05-30T20:13:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anshika]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="searchTest(java.lang.String)[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@11e21d0e]" name="searchTest" duration-ms="8268" started-at="2019-05-30T20:13:37Z" data-provider="dp" finished-at="2019-05-30T20:13:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anish]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qa.linkedin.testcases.SearchDDTTest@11e21d0e]" name="afterClass" is-config="true" duration-ms="5582" started-at="2019-05-30T20:13:46Z" finished-at="2019-05-30T20:13:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.qa.linkedin.testcases.SearchDDTTest -->
+    </test> <!-- HybridTest -->
+  </suite> <!-- HybridSuite -->
+</testng-results>
